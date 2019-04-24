@@ -456,12 +456,12 @@ footer{
 
 /*ーーーーーーーーーーーーーここからスタイリストーーーーーーーーーーーーーーーーー*/
 
-.scissors{
-  width: 90%;
+.mainvisual{
+  width: 100%;
 margin: 0 auto;
 }
 
-.scissors img{
+.mainvisual img{
   width: 100%;
 }
 
@@ -548,7 +548,7 @@ margin: 0 auto;
 }
 
 .model-pic{
-  width: 95%;
+  width: 90%;
   margin: 0 auto;
 }
 
