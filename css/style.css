@@ -88,6 +88,15 @@ position:relative;
 
 
 /*ホームのページ*/
+.home-top{
+  width: 100%;
+}
+
+.home-top img{
+  width: 100%;
+}
+
+
 .mainvisual{
   width: 100%;
 }
